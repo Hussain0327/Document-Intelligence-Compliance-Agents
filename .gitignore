@@ -89,3 +89,12 @@ documents/
 # Config files with sensitive data
 config.local.js
 settings.local.json
+# API Keys and Environment Variables
+.env
+config.local.js
+*.key
+
+# API Keys and Environment Variables
+.env
+config.local.js
+*.key
